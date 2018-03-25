@@ -3,7 +3,7 @@ Sri Shrishti Infotech Company Website
 
 Link to development site https://sriram-kannan.github.io/srishrishti/
 
-# Bootstrap Installation (Version Bootstrap v4.0.0)
+# Bootstrap UI Framework Installation (Version Bootstrap v4.0.0)
 
 Mandatory: (bootstrap.css and bootstrap.js files)
 1. Goto https://getbootstrap.com/ and click "Download". Goto "Compiled CSS and JS" and click "Download". Extract zip file into local directory.

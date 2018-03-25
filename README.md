@@ -16,4 +16,4 @@ Optional: (jquery.js, popper.js, tooltip function and fonts.css files)
 3. Goto https://getbootstrap.com/ and click "Documentation". Search for "tooltip". Copy the function and paste to the end of popper.js file (Tooltips rely on the 3rd party library Popper.js for positioning. You must include popper.js before bootstrap.js).
 4. Goto bootstrapcdn.com and click on "Font Awesome" in top menu section. Copy the link and open the file in a browser. Select all and save as fonts.css in local css folder.
 
-Include above css and js files in html file.
+Include above css and js files in html file as needed.

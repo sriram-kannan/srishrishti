@@ -10,7 +10,7 @@ Mandatory: (bootstrap.css and bootstrap.js files)
 2. Delete all files in css folder except bootstrap.css (use this during development for debugging as this is more readable instead of bootstrap.min.css which is compressed version to save space).
 3. Delete all files in js folder except bootstrap.js (use this during development for debugging as this is more readable instead of bootstrap.min.js which is compressed version to save space).
 
-Optional: (jquery.js, popper.js, tooltip function and fonts.css files)
+Optional: (jquery.js, popper.js (added tooltip function) and fonts.css files)
 1. Goto jquery.com and click download jquery. Save link of uncompressed development slim build to local js folder (use this during development for debugging as this is more readable instead of compressed production slim build which is compressed version to save space).
 2. Goto popper.js.org and click "Github" which will take you to their github repository. Save link of unpkg popper.js to local js folder (use this during development for debugging as this is more readable/editable instead of unpkg popper.min.js which is compressed version to save space).
 3. Goto https://getbootstrap.com/ and click "Documentation". Search for "tooltip". Copy the function and paste to the end of popper.js file.
